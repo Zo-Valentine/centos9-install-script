@@ -84,4 +84,3 @@ check_install "$tool9" "$package9"
 check_install "$tool10" "$package10"
 ```
 
-I've added comments to each section of the script to define roles for the corresponding tools/packages. You can now upload this script to GitHub as a repository.
